@@ -1,0 +1,28 @@
+name: Walmer House
+favicon: null
+layout_spectrum: 0.5720098968595266
+typography_spectrum: 0.355073060374707
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.10591369052417576
+  lightness: 0.6776140020228922
+  saturation: 0.3789885693695396
+  rhythmicContrast: 0.24169102287851274
+purpose: []
